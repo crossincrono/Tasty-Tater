@@ -15,7 +15,7 @@ Check out [API LIVE DEMO](https://tasty-taster-backend.herokuapp.com) here!!
 * Backend : Django
 ```
 ## How to Install
-1. Git Clone
+1. Git Clone https://github.com/crossincrono/Tasty-Taster.git
 ```
 git clone 
 ```
