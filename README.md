@@ -1,4 +1,4 @@
-# Tasty-Taster
+# Tasty-Tater
 ```
 Tasty-Taster , with a frontend built in React & Redux and a backend built in Django API.
 This is an online food menu service for Tasty Taster. When you visit the restaurant, you often
