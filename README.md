@@ -7,7 +7,7 @@ So we created the menu app where you can see food images with the needed informa
 select your items easily. During such an unprecedented time and social distancing, online menu card technology is a boon!
 
 ```
-Check out [FRONTEND LIVE DEMO](https://tasty-taster-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://tasty-taters-frontend.bthanpirak.repl.co) here!!
 Check out [API LIVE DEMO](https://tasty-taster-backend.herokuapp.com) here!!
 ## Tech used
 ```
